@@ -240,4 +240,4 @@ This repository serves as the official landing page for AxCrypt. The software is
 **Get the most recent version of AxCrypt today!**
 
 ---
-**Last updated:** 2026-10-25 23:52:35 UTC
+**Last updated:** 2026-10-26 03:35:58 UTC
